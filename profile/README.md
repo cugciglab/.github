@@ -20,8 +20,4 @@ and building **open-source scientific software**.
   
 </div>
 
-<img width="100%" alt="Logo of the Computer-Oriented Geoscience Lab on top of a map of gravity disturbances in the Pacific" src="https://github.com/compgeolab/.github/raw/main/profile/banner.jpg"/>
-
-![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
-
-
+<img width="100%" alt="Logo of the Computational and Intelligent Geophysics Lab on top of a map of full waveform inversion result from CGG (https://www.cgg.com/geoscience/subsurface-imaging/full-waveform-inversion)" src="https://github.com/cugciglablab/.github/raw/main/profile/cig_banner.jpeg"/>
