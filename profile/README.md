@@ -1,22 +1,16 @@
-## Hey, this is CIG Lab 👋
-
-<h1 align="center">The Computational and Intelligent Geophysics Lab</h1>
+<h1 align="center">计算与智能地球物理实验室</h1>
 
 <div align="center">
   
-The **CompGeoLab** is a research group based primarily at the
-[University of Liverpool](https://www.liverpool.ac.uk/earth-ocean-and-ecological-sciences/).
-  
-We are experts in solving **inverse problems** in **Geophysics**
-and building **open-source scientific software**.
+**计算与智能地球物理实验室**专注于为地球物理反演和成像问题设计**高性能计算**框架和**深度学习**算法。
 
-[News](https://www.compgeolab.org/news/)
+[团队动态](https://www.compgeolab.org/news/)
 |
-[Team](https://www.compgeolab.org/team/)
+[团队成员](https://www.compgeolab.org/team/)
 |
-[Lab Manual](https://github.com/compgeolab/manual) 
+[实验室手册](https://github.com/compgeolab/manual) 
 | 
-[Contact](https://www.compgeolab.org/contact/)
+[联系方式](https://www.compgeolab.org/contact/)
   
 </div>
 
