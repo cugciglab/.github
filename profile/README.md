@@ -20,4 +20,4 @@ and building **open-source scientific software**.
   
 </div>
 
-<img width="100%" alt="Logo of the Computational and Intelligent Geophysics Lab on top of a map of full waveform inversion result from CGG (https://www.cgg.com/geoscience/subsurface-imaging/full-waveform-inversion)" src="https://github.com/cugciglablab/.github/raw/main/profile/cig_banner.jpeg"/>
+<img width="100%" alt="Logo of the Computational and Intelligent Geophysics Lab on top of a map of full waveform inversion result from CGG (https://www.cgg.com/geoscience/subsurface-imaging/full-waveform-inversion)" src="https://github.com/cugciglab/.github/raw/main/profile/cig_banner.jpeg"/>
